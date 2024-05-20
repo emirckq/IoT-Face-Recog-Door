@@ -5,7 +5,7 @@ import pickle
 import cvzone
 import face_recognition
 
-# USE sudo -E /usr/bin/python3 /home/orangepi/Desktop/New-folder-3-/131.py TO RUN THIS SCRIPT.
+# USE sudo -E /usr/bin/python3 /home/orangepi/Desktop/New-folder-3-/main.py TO RUN THIS SCRIPT.
 
 
 
